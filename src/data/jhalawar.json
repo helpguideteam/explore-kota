@@ -1,0 +1,242 @@
+[
+  {
+    "id": 201,
+    "slug": "gagron-fort-jhalawar",
+    "title": "Gagron Fort",
+    "content": "Gagron Fort is a UNESCO World Heritage Site and one of the most unique hill forts in Rajasthan. Surrounded by water on three sides (river, lake, and moat), it features ancient temples, palaces, and panoramic views. Built in the 12th century, it is famous for its spiritual significance and scenic beauty.",
+    "tags": [
+      "historical",
+      "fort",
+      "heritage",
+      "viewpoint",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 24.9472,
+      "lng": 76.1578
+    },
+    "best_time": "Sunrise or sunset for views",
+    "duration": 1.5,
+    "image1": "/jhalawar/gagron-fort-jhalawar-rajasthan.jpg",
+    "image2": "/gagron-fort-jhalawar-2.jpg",
+    "image3": "/gagron-fort-jhalawar-3.jpg",
+    "image4": "/gagron-fort-jhalawar-4.jpg",
+    "highlights": [
+      "UNESCO World Heritage Site",
+      "Water-surrounded hill fort",
+      "Ancient temples and palaces",
+      "Panoramic Hadoti views",
+      "Spiritual and historical significance"
+    ]
+  },
+  {
+    "id": 202,
+    "slug": "jhalrapatan-temples",
+    "title": "Jhalrapatan Temples",
+    "content": "Jhalrapatan is known as the 'city of a thousand bells' due to its cluster of ancient temples. The most famous is the Shitaleshwar Temple (7th century) with exquisite carvings, followed by Sun Temple and other shrines. It showcases early medieval Indian architecture and is a peaceful pilgrimage site.",
+    "tags": [
+      "temple",
+      "historical",
+      "heritage",
+      "architecture",
+      "spiritual"
+    ],
+    "geo": {
+      "lat": 24.9261,
+      "lng": 76.1745
+    },
+    "best_time": "Morning or evening",
+    "duration": 1,
+    "image1": "/jhalawar/Shantinath_Jain_temple_jhalrapatan-rajasthan.jpg",
+    "image2": "/jhalrapatan-temples-2.jpg",
+    "image3": "/jhalrapatan-temples-3.jpg",
+    "image4": "/jhalrapatan-temples-4.jpg",
+    "highlights": [
+      "Ancient 7th-century temples",
+      "City of a thousand bells",
+      "Exquisite stone carvings",
+      "Peaceful pilgrimage site",
+      "Early medieval architecture"
+    ]
+  },
+  {
+    "id": 203,
+    "slug": "chandrabhaga-temple-jhalawar",
+    "title": "Chandrabhaga Temple",
+    "content": "Chandrabhaga Temple is an ancient Shiva temple near the Chandrabhaga River in Jhalrapatan. Known for its intricate architecture and serene riverside location, it is a major site for the famous Chandrabhaga Fair. The temple complex includes several shrines and is highly revered.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "historical",
+      "festival",
+      "riverside"
+    ],
+    "geo": {
+      "lat": 24.9205,
+      "lng": 76.1802
+    },
+    "best_time": "During Chandrabhaga Fair or early morning",
+    "duration": 1,
+    "image1": "/jhalawar/ChandrabhagaTempleJhalawar-rajasthan.jpg",
+    "image2": "/chandrabhaga-temple-2.jpg",
+    "image3": "/chandrabhaga-temple-3.jpg",
+    "image4": "/chandrabhaga-temple-4.jpg",
+    "highlights": [
+      "Ancient Shiva temple",
+      "Riverside serene location",
+      "Site of famous Chandrabhaga Fair",
+      "Intricate temple carvings",
+      "Major pilgrimage spot"
+    ]
+  },
+  {
+    "id": 204,
+    "slug": "pratap-sagar-jhalawar",
+    "title": "Pratap Sagar Dam",
+    "content": "Pratap Sagar is a scenic reservoir on the Kali Sindh River, surrounded by hills and greenery. It offers peaceful boating, nature views, and is a great spot for photography and relaxation. Nearby villages add a rural charm to the experience.",
+    "tags": [
+      "nature",
+      "lake",
+      "boating",
+      "photography-spot",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 24.8333,
+      "lng": 76.3333
+    },
+    "best_time": "Evening for sunset",
+    "duration": 1.2,
+    "image1": "jhalawar/pratap-sagar-dam-jhalawar.webp",
+    "image2": "/pratap-sagar-2.jpg",
+    "image3": "/pratap-sagar-3.jpg",
+    "image4": "/pratap-sagar-4.jpg",
+    "highlights": [
+      "Scenic reservoir and hills",
+      "Peaceful boating spot",
+      "Beautiful sunset views",
+      "Rural and natural charm",
+      "Photography and relaxation"
+    ]
+  },
+  {
+    "id": 205,
+    "slug": "bhawanipura-gardens-jhalawar",
+    "title": "Bhawanipura Gardens & Orange Orchards",
+    "content": "Jhalawar is called the 'Orange City' due to its vast orange orchards. Bhawanipura Gardens showcase beautiful orange groves, seasonal flowers, and peaceful walking paths. A perfect spot to experience Jhalawar’s agricultural heritage and natural beauty.",
+    "tags": [
+      "nature",
+      "garden",
+      "agriculture",
+      "photography-spot",
+      "leisure"
+    ],
+    "geo": {
+      "lat": 24.9167,
+      "lng": 76.1667
+    },
+    "best_time": "Winter (orange season) or monsoon",
+    "duration": 1,
+    "image1": "jhalawar/bhawanipura-gardens-orange-orchads-jhalawar-rajasthan.avif",
+    "image2": "/orange-orchards-jhalawar-2.jpg",
+    "image3": "/bhawanipura-gardens-3.jpg",
+    "image4": "/jhalawar-oranges-4.jpg",
+    "highlights": [
+      "Famous orange orchards",
+      "Seasonal flower gardens",
+      "Peaceful walking paths",
+      "Agricultural heritage",
+      "Great for photography"
+    ]
+  },
+  {
+    "id": 206,
+    "slug": "kalikho-waterfall-jhalawar",
+    "title": "Kalikho Waterfall",
+    "content": "Kalikho Waterfall is a scenic monsoon waterfall near Jhalawar town. Surrounded by lush greenery and rocky cliffs, it is a hidden natural gem. Best visited during or after rains, it offers a peaceful escape and great photography opportunities.",
+    "tags": [
+      "nature",
+      "waterfall",
+      "monsoon",
+      "photography-spot",
+      "off-the-beaten-path"
+    ],
+    "geo": {
+      "lat": 24.8833,
+      "lng": 76.2500
+    },
+    "best_time": "Monsoon (July–September)",
+    "duration": 1,
+    "image1": "jhalawar/kalikho-waterfalls-near-jhalawar-rajasthan.jpg",
+    "image2": "/kalikho-waterfall-2.jpg",
+    "image3": "/kalikho-waterfall-3.jpg",
+    "image4": "/kalikho-waterfall-4.jpg",
+    "highlights": [
+      "Scenic monsoon waterfall",
+      "Lush green surroundings",
+      "Peaceful natural escape",
+      "Hidden gem of Jhalawar",
+      "Excellent photography spot"
+    ]
+  },
+  {
+    "id": 207,
+    "slug": "virendra-bhawan-jhalawar",
+    "title": "Virendra Bhawan Palace",
+    "content": "Virendra Bhawan is the grand royal palace of Jhalawar, now a heritage hotel. It features classic Rajput architecture, beautiful gardens, and intricate interiors. A great place to experience royal history and stay in a luxurious setting.",
+    "tags": [
+      "historical",
+      "palace",
+      "heritage",
+      "architecture",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 24.9200,
+      "lng": 76.1500
+    },
+    "best_time": "Anytime (as hotel/visit)",
+    "duration": 1,
+    "image1": "jhalawar/jhalawar_virendra_bhawan_palace-rajasthan.webp",
+    "image2": "/virendra-bhawan-2.jpg",
+    "image3": "/virendra-bhawan-3.jpg",
+    "image4": "/virendra-bhawan-4.jpg",
+    "highlights": [
+      "Royal Jhalawar palace",
+      "Classic Rajput architecture",
+      "Beautiful gardens",
+      "Heritage hotel stay option",
+      "Historical interiors"
+    ]
+  },
+  {
+    "id": 208,
+    "slug": "kali-sindh-river-jhalawar",
+    "title": "Kali Sindh River",
+    "content": "The Kali Sindh River flows through Jhalawar, offering scenic views, riverbanks, and natural beauty. It is a lifeline for agriculture (especially oranges) and supports local biodiversity. Ideal for peaceful walks and photography.",
+    "tags": [
+      "nature",
+      "river",
+      "photography-spot",
+      "leisure",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 24.9000,
+      "lng": 76.2000
+    },
+    "best_time": "Monsoon or winter",
+    "duration": 1,
+    "image1": "/jhalawar/kalisindh-river-jhalawar-rajasthan.avif",
+    "image2": "/kali-sindh-river-2.jpg",
+    "image3": "/kali-sindh-river-3.jpg",
+    "image4": "/kali-sindh-river-4.jpg",
+    "highlights": [
+      "Scenic river views",
+      "Supports orange cultivation",
+      "Peaceful riverside walks",
+      "Natural beauty and biodiversity",
+      "Photography and relaxation spot"
+    ]
+  }
+]

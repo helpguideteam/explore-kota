@@ -1,0 +1,37 @@
+[
+  {
+    "name": "laptop",
+    "email": "mad.husudang2g@gmail.com",
+    "phone": "04444444444",
+    "subject": "testing",
+    "message": "test data",
+    "submittedAt": "2026-02-10T10:08:48.500Z"
+  },
+  
+  {
+    "name": "madhur ",
+    "email": "mad.husudang2g@gmail.com",
+    "phone": "04444444444",
+    "subject": "i want to get info",
+    "message": "i want to get more information about kota places where i can stay ",
+    "submittedAt": "2026-02-10T10:12:38.425Z"
+  },
+
+  {
+    "name": "check three",
+    "email": "mad.husudang2g@gmail.com",
+    "phone": "04444444444",
+    "subject": "testing",
+    "message": "checking form",
+    "submittedAt": "2026-02-10T10:17:39.084Z"
+  },
+
+  {
+    "name": "ankit",
+    "email": "mad.husudang2g@gmail.com",
+    "phone": "04444444444",
+    "subject": "testing",
+    "message": "hhkjlhjk",
+    "submittedAt": "2026-02-10T10:33:09.314Z"
+  }
+]

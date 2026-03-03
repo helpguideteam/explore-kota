@@ -1,0 +1,1004 @@
+[
+  {
+    "id": 1,
+    "slug": "chambal-riverfront",
+    "title": "Chambal Riverfront",
+    "content": "Heritage Chambal Riverfront is one of Kota’s most iconic tourism developments, blending architecture, culture, spirituality, and recreation along the banks of the Chambal River. Stretching from Kota Barrage to Nayapura Bridge, the riverfront showcases themed ghats, monumental statues, musical fountains, boating facilities, and replicas of world-famous monuments, making it a must-visit destination in Rajasthan.",
+    "tags": [
+      "tourist",
+      "family-friendly",
+      "boating",
+      "cultural",
+      "photography-spot"
+    ],
+    "geo": {"lat": 25.19388,"lng": 75.84372},
+    "best_time": "Late afternoon to evening",
+    "duration": 0.7,
+    "image1": "/chambal-riverfront-kota-rajasthan-8.jpg",
+    "image2": "/chambal-riverfront-kota-rajasthan-1.png",
+    "image3": "/chambal-riverfront-kota-rajasthan-2.png",
+    "image4": "/chambal-riverfront-kota-rajasthan-3.png",
+    "highlights": [
+      "World’s largest Nandi statue",
+      "Musical fountain & laser shows",
+      "Themed ghats and heritage architecture",
+      "Boating and e-cart rides",
+      "Chambal Aarti experience"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "jagmandir-palace-kota",
+    "title": "Jagmandir Palace",
+    "content": "Jagmandir Palace is a historic royal palace located in the middle of Kishore Sagar Lake. Built in the 18th century, it reflects Rajput architecture and once served as a leisure retreat for the Kota rulers. Today, it stands as a scenic heritage monument offering stunning lake views.",
+    "tags": [
+      "historical",
+      "heritage",
+      "photography-spot",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 25.18339,
+      "lng": 75.84937
+    },
+    "best_time": "Morning or evening",
+    "duration": 0.4,
+    "image1": "/kishor-sagar-talab-kota-rajasthan-1.jpeg",
+    "image2": "/kishor-sagar-talab-kota-rajasthan-4.webp",
+    "image3": "/kishor-sagar-talab-kota-rajasthan-6.jpg",
+    "image4": "/kishor-sagar-talab-kota-rajasthan-5.avif",
+    "highlights": [
+      "Island palace architecture",
+      "Kishore Sagar Lake views",
+      "Royal Rajput heritage",
+      "Peaceful surroundings"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "seven-wonders-park",
+    "title": "Seven Wonders Park",
+    "content": "Seven Wonders Park is a unique attraction featuring scaled replicas of the Seven Wonders of the World. Located near Kishore Sagar Lake, it is one of Kota’s most popular evening hangout spots for families and tourists.",
+    "tags": [
+      "tourist",
+      "family-friendly",
+      "photography-spot"
+    ],
+    "geo": {
+      "lat": 25.17937,
+      "lng": 75.85170
+    },
+    "best_time": "Evening",
+    "duration": 0.5,
+    "image1": "/seven-wonders-park-kota-rajasthan-1.png",
+    "image2": "/seven-wonders-park-kota-rajasthan-2.jpeg",
+    "image3": "/seven-wonders-3.jpg",
+    "image4": "/seven-wonders-4.jpg",
+    "highlights": [
+      "Replicas of world-famous monuments",
+      "Night lighting views",
+      "Family-friendly park",
+      "Lakeside location"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "garadia-mahadev",
+    "title": "Garadia Mahadev Temple",
+    "content": "Garadia Mahadev Temple is a revered Shiva temple located on a cliff overlooking the Chambal River. Known for its breathtaking panoramic views, it is both a spiritual and natural attraction near Kota.",
+    "tags": [
+      "temple",
+      "nature",
+      "spiritual",
+      "photography-spot"
+    ],
+    "geo": {
+      "lat": 25.11758,
+      "lng": 75.72965
+    },
+    "best_time": "Morning or sunset",
+    "duration": 0.6,
+    "image1": "/garadiya-mahadev-temple-kota-rajasthan-1.png",
+    "image2": "/garadiya-mahadev-temple-kota-rajasthan-2.webp",
+    "image3": "/garadia-mahadev-3.jpg",
+    "image4": "/garadia-mahadev-4.jpg",
+    "highlights": [
+      "Cliff-top views of Chambal River",
+      "Sacred Shiva temple",
+      "Sunrise and sunset photography",
+      "Peaceful natural environment"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "khade-ganesh-ji",
+    "title": "Khade Ganesh Ji Temple",
+    "content": "Khade Ganesh Ji is one of the most famous and ancient temples of Kota, dedicated to Lord Ganesha in a standing posture. The temple is believed to be highly auspicious and attracts devotees throughout the year.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "historical"
+    ],
+    "geo": {
+      "lat": 25.11352,
+      "lng": 75.82916
+    },
+    "best_time": "Morning",
+    "duration": 0.3,
+    "image1": "/temple-khade-ganesh-mandir-kota-rajasthan-2.png",
+    "image2": "/temple-khade-ganesh-mandir-kota-rajasthan-1.jpg",
+    "image3": "/khade-ganesh-3.jpg",
+    "image4": "/khade-ganesh-4.jpg",
+    "highlights": [
+      "Rare standing Ganesha idol",
+      "Ancient religious significance",
+      "Popular among local devotees"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "kota-barrage",
+    "title": "Kota Barrage",
+    "content": "Kota Barrage is a major dam built across the Chambal River and serves as an important irrigation structure. It also offers scenic views, especially during monsoon and evenings.",
+    "tags": [
+      "nature",
+      "tourist",
+      "photography-spot"
+    ],
+    "geo": {
+      "lat": 25.17600,
+      "lng": 75.82725
+    },
+    "best_time": "Evening or monsoon season",
+    "duration": 0.4,
+    "image1": "/kota-barrage-kota-rajasthan-1.png",
+    "image2": "/kota-barrage-kota-rajasthan-2.avif",
+    "image3": "/kota-barrage-3.jpg",
+    "image4": "/kota-barrage-4.jpg",
+    "highlights": [
+      "Chambal River views",
+      "Sunset photography",
+      "Monsoon water flow"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "city-park-kota",
+    "title": "Oxyzone City Park",
+    "content": "Oxyzone City Park is one of the largest urban parks in Rajasthan, offering jogging tracks, gardens, musical fountains, boating areas, and leisure spaces for families and tourists.",
+    "tags": [
+      "nature",
+      "family-friendly",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 25.14179,
+      "lng": 75.85156
+    },
+    "best_time": "Morning or evening",
+    "duration": 3.0,
+    "image1": "/oxyzen-city-park-kota-rajsthan-4.jpg",
+    "image2": "/oxyzen-city-park-kota-rajsthan-2.jpg",
+    "image3": "/city-park-3.jpg",
+    "image4": "/city-park-4.jpg",
+    "highlights": [
+      "Largest city park in Rajasthan",
+      "Musical fountains",
+      "Boating and leisure zones",
+      "Well-maintained gardens"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "chambal-garden-kota",
+    "title": "Chambal Garden",
+    "content": "Chambal Garden is one of the most scenic public gardens in Kota, set on the banks of the Chambal River. With lush greenery, shaded walking paths, fountains, a central pond, and panoramic river views, it’s a popular picnic and leisure destination for families and visitors. The garden features a suspension bridge over the pond, a boating facility, children’s play area, and opportunities to observe gharials and other aquatic life. It’s an ideal spot for peaceful strolls, photography, and spending relaxed time in nature.",
+    "tags": [
+      "nature",
+      "picnic-spot",
+      "family-friendly",
+      "photography-spot",
+      "leisure"
+    ],
+    "geo": {
+      "lat": 25.16281,
+      "lng": 75.82370
+    },
+    "best_time": "Mornings or evenings, especially in winter (October–February) for pleasant weather and river views",
+    "duration": 1.5,
+    "image1": "/chambal-garden-kota-rajasthan-1.jpg",
+    "image2": "/chambal-garden-kota-rajasthan-2.jpg",
+    "image3": "/chambal-garden-3.jpg",
+    "image4": "/chambal-garden-4.jpg",
+    "highlights": [
+      "Lush landscaped gardens and shaded walkways",
+      "Central pond with gharials and aquatic life",
+      "Suspension bridge with river views",
+      "Boating facility in the pond",
+      "Children’s play area and open lawns",
+      "Peaceful riverside setting"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "cv-garden-kota",
+    "title": "CV Garden (Chhatra Vilas)",
+    "content": "C V Garden, also known as Chhatra Vilas Garden, is one of Kota’s largest and most beautiful urban parks. It offers tranquil green lawns, paved walking and cycling paths, shaded resting spots, elegant fountains, and children’s play areas. The garden is a favorite local destination for morning walks, yoga sessions, cycling, and leisurely picnics. A toy train ride is a popular family attraction, and boating is available in small water sections. The garden also has historical cenotaphs and open spaces ideal for outdoor relaxation and play.",
+    "tags": [
+      "nature",
+      "family-friendly",
+      "leisure",
+      "picnic-spot",
+      "park",
+      "photography-spot"
+    ],
+    "geo": {
+      "lat": 25.18747,
+      "lng": 75.85420
+    },
+    "best_time": "Early morning or evening, especially during summer mornings for jogging and evening strolls",
+    "duration": 1.5,
+    "image1": "/cv-garden-kota-rajasthan-1.jpg",
+    "image2": "/cv-garden-kota-rajasthan-2.avif",
+    "image3": "/cv-garden-3.jpg",
+    "image4": "/cv-garden-4.jpg",
+    "highlights": [
+      "Spacious lawns and shaded walking paths",
+      "Dedicated cycling and jogging tracks",
+      "Children’s play area with slides and swings",
+      "Toy train ride for all ages",
+      "Paved paths and picnic spots",
+      "Beautiful fountains and greenery"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "abheda-mahal-kota",
+    "title": "Abheda Mahal",
+    "content": "Abheda Palace is a historic royal residence located in Kota, known for its beautiful Indo-Rajput architecture and richly adorned interiors. Built as a summer retreat for the erstwhile rulers of Kota, the palace stands as an elegant reminder of the region’s regal heritage. With expansive courtyards, ornate arches, intricately carved pillars, and panoramic views of the surrounding landscape, Abheda Palace invites visitors to step into the grandeur of Kota’s royal past. Throughout the year, cultural events, exhibitions, and occasional royal tours are held here, making it a must-visit for history and architecture enthusiasts.",
+    "tags": [
+      "historical",
+      "heritage",
+      "architecture",
+      "tourist",
+      "photography-spot"
+    ],
+    "geo": {
+      "lat": 25.20015,
+      "lng": 75.79049
+    },
+    "best_time": "Morning or late afternoon for softer light and cooler temperatures",
+    "duration": 1,
+    "image1": "/abheda-mahal-kota-rajasthan-1.jpg",
+    "image2": "/abheda-mahal-kota-rajasthan-2.jpg",
+    "image3": "/abheda-palace-3.jpg",
+    "image4": "/abheda-palace-4.jpg",
+    "highlights": [
+      "Indo-Rajput architectural style",
+      "Royal interiors and carved pillars",
+      "Spacious courtyards and gardens",
+      "Cultural events and exhibitions",
+      "Photography opportunities in heritage setting"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "chandresal-math-kota",
+    "title": "Chandresal Math (Shiv Temple)",
+    "content": "Chandresal Math is an ancient Shiva math and temple complex located near Chandresal village on the outskirts of Kota, Rajasthan. This historic site is dedicated to Lord Shiva and reflects the deep spiritual and cultural roots of the region. Though parts of the math have fallen into disrepair and face structural challenges, it remains a place of devotion and quiet reflection for visitors who seek heritage and spirituality off the beaten path. Its rustic surroundings and rural setting offer a distinct contrast to city attractions, making it interesting for travelers who appreciate spiritual heritage and local tradition.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "heritage",
+      "off-the-beaten-path",
+      "historic"
+    ],
+    "geo": {
+      "lat": 25.1320,
+      "lng": 75.7640
+    },
+    "best_time": "Morning and late afternoon (cooler and quieter)",
+    "duration": 0.8,
+    "image1": "/chandrasel_math-kota-rajasthan-1.webp",
+    "image2": "/chandrasel_math-kota-rajasthan-2.webp",
+    "image3": "/chandrasel_math-kota-rajasthan-3.jpg",
+    "image4": "/chandrasel_math-kota-rajasthan-4.jpg",
+    "highlights": [
+      "Historic Shiva math with old temple ruins",
+      "Spiritual destination for devotees",
+      "Rural heritage ambiance",
+      "Local cultural significance",
+      "Close proximity to Chandresal village"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "godavari-dham-kota",
+    "title": "Godavari Dham Temple",
+    "content": "Godavari Dham Temple, also known locally as the Godavari Dham Balaji Temple, is a revered Hindu temple complex situated on the banks of the River Chambal in Kota, Rajasthan. The temple is dedicated primarily to Lord Hanuman (Balaji), and it features beautifully crafted white marble towers and architecture. Besides the main Hanuman shrine, the complex also houses smaller shrines for deities like Lord Shiva, Ganesh, Bhairav, and Ram Parivar. The serene riverside location, majestic marble structure, and devotional rituals make Godavari Dham a must-visit destination for both spiritual seekers and travelers. Devotees especially frequent the temple on Tuesdays and Saturdays for special aarti ceremonies. The temple’s peaceful environment, scenic river views, and cultural vitality make it one of Kota’s most popular spiritual and tourist spots.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "cultural",
+      "tourist",
+      "photography-spot"
+    ],
+    "geo": {
+      "lat": 25.15932,
+      "lng": 75.82158
+    },
+    "best_time": "Early morning or late afternoon, and especially on Tuesdays and Saturdays for aarti",
+    "duration": 0.6,
+    "image1": "/godawari-dham-kota-rajasthan.jpeg",
+    "image2": "/godawari-dham-kota-rajasthan-2.jpg",
+    "image3": "/godavari-dham-3.jpg",
+    "image4": "/godavari-dham-4.jpg",
+    "highlights": [
+      "Dedicated Hanuman temple (Balaji)",
+      "White marble towers and architecture",
+      "Multiple smaller shrines in the complex",
+      "Chambal Riverfront views",
+      "Devotional aarti on Tuesdays & Saturdays",
+      "Peaceful spiritual atmosphere"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "adhar-shila-kota",
+    "title": "Adhar Shila (Dargah)",
+    "content": "Adhar Shila is a revered dargah (shrine) located on the banks of the Chambal River in Kota. It is a significant spiritual site for the local Muslim community and visitors seeking peace, with scenic river views and a serene atmosphere.",
+    "tags": [
+      "spiritual",
+      "religious",
+      "photography-spot",
+      "riverside"
+    ],
+    "geo": {
+      "lat": 25.15977,
+      "lng": 75.82102
+    },
+    "best_time": "Morning or evening",
+    "duration": 0.5,
+    "image1": "/adharshila-dargah-kota-rajasthan-1.avif",
+    "image2": "/adharshila-dargah-kota-rajasthan-2.avif",
+    "image3": "/adharshila-dargah-kota-rajasthan-3.webp",
+    "image4": "/adharshila-dargah-kota-rajasthan-4.jpg",
+    "highlights": [
+      "Scenic Chambal River location",
+      "Peaceful dargah atmosphere",
+      "Cultural and spiritual significance",
+      "Ideal for quiet reflection"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "karai-ke-balaji-kota",
+    "title": "Karai Ke Balaji Temple",
+    "content": "Karai Ke Balaji is a popular Hanuman temple located near Chambal Garden in Dadabari area of Kota. It attracts devotees for prayers and celebrations, especially during Hanuman Janmotsav, with a vibrant spiritual vibe.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "hanuman-temple",
+      "devotional"
+    ],
+    "geo": {
+      "lat": 25.16501,
+      "lng": 75.82274
+    },
+    "best_time": "Morning or Tuesday/Saturday",
+    "duration": 0.4,
+    "image1": "/karai-ke-balaji-kota-rajasthan-1.avif",
+    "image2": "/karai-ke-balaji-kota-rajasthan-2.avif",
+    "image3": "/karai-balaji-3.jpg",
+    "image4": "/karai-balaji-4.jpg",
+    "highlights": [
+      "Dedicated to Lord Hanuman",
+      "Festive atmosphere during Janmotsav",
+      "Near Chambal Garden",
+      "Popular among local devotees"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "maa-trikuta-kota",
+    "title": "Maa Trikuta Temple",
+    "content": "Maa Trikuta Temple (also known as Trikuta Mandir) is a modern cave-style temple in Kunhadi/Naya Khera area of Kota, replicating the Vaishno Devi shrine. It features artificial hills, caves, and devotional paths, making it a unique spiritual attraction.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "vaishno-devi-replica",
+      "family-friendly"
+    ],
+    "geo": {
+      "lat": 25.21375,
+      "lng": 75.82064
+    },
+    "best_time": "Morning or evening",
+    "duration": 1.0,
+    "image1": "/maa-trikuta-kota-rajasthan-1.png",
+    "image2": "/maa-trikuta-kota-rajasthan-2.avif",
+    "image3": "/trikuta-3.jpg",
+    "image4": "/trikuta-4.jpg",
+    "highlights": [
+      "Cave and hill replica of Vaishno Devi",
+      "Modern devotional architecture",
+      "Peaceful walking paths",
+      "Popular family pilgrimage spot"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "thegda-mahadev-kota",
+    "title": "Shivpuri Dham",
+    "content": "Thegda Mahadev Ji Mandir is a local Shiva temple in Digod area near Kota, known for its peaceful setting and devotion. It serves as a place of worship for Lord Shiva with a serene rural ambiance.",
+    "tags": [
+      "temple",
+      "shiva-temple",
+      "spiritual",
+      "off-the-beaten-path"
+    ],
+    "geo": {
+      "lat": 25.16247,
+      "lng": 75.85510
+    },
+    "best_time": "Morning",
+    "duration": 0.5,
+    "image1": "/thegda-shivpuri-dham-kota-rajasthan-1.jpg",
+    "image2": "/thegda-shivpuri-dham-kota-rajasthan-2.jpg",
+    "image3": "/thegda-3.jpg",
+    "image4": "/thegda-4.jpg",
+    "highlights": [
+      "Dedicated to Lord Shiva",
+      "Quiet and devotional environment",
+      "Local heritage significance",
+      "Suitable for short visits"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "gurudwara-sri-agamgarh-sahib-kota",
+    "title": "Gurudwara Sri Agamgarh Sahib",
+    "content": "Gurudwara Sri Agamgarh Sahib is one of the largest and most prominent Sikh shrines in Kota, located in Badgaon area. It offers langar (community kitchen) and a peaceful place for reflection and prayer.",
+    "tags": [
+      "gurudwara",
+      "spiritual",
+      "sikh-heritage",
+      "community"
+    ],
+    "geo": {
+      "lat": 25.23387,
+      "lng": 75.79238
+    },
+    "best_time": "Morning or evening",
+    "duration": 0.8,
+    "image1": "/gurudwara-agam-garh-sahib-kota-rajasthan-2.avif",
+    "image2": "/gurudwara-agam-garh-sahib-kota-rajasthan-1.jpg",
+    "image3": "/agamgarh-3.jpg",
+    "image4": "/agamgarh-4.jpg",
+    "highlights": [
+      "Largest Gurudwara in Kota",
+      "Community langar facility",
+      "Historical and spiritual importance",
+      "Serene environment"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "ganesh-udhyan-kota",
+    "title": "Ganesh Udyan",
+    "content": "Ganesh Udyan is a well-maintained public garden and park located near Khade Ganesh Ji Temple in Rangbari area. It offers green spaces, walking paths, and a relaxing spot for families and morning walkers.",
+    "tags": [
+      "park",
+      "nature",
+      "family-friendly",
+      "leisure"
+    ],
+    "geo": {
+      "lat": 25.11311,
+      "lng": 75.83121
+    },
+    "best_time": "Early morning or evening",
+    "duration": 0.7,
+    "image1": "/ganesh-udhyan-kota-rajasthan-1.webp",
+    "image2": "/ganesh-udhyan-kota-rajasthan-2.avif",
+    "image3": "/ganesh-udhyan-3.jpg",
+    "image4": "/ganesh-udhyan-4.jpg",
+    "highlights": [
+      "Adjacent to Khade Ganesh Temple",
+      "Green lawns and shaded areas",
+      "Ideal for relaxation and picnics",
+      "Well-maintained urban park"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "dadh-devi-mata-temple-kota",
+    "title": "Dadh Devi Mata Temple",
+    "content": "Dadh Devi Temple is an ancient 10th-century shrine dedicated to Goddess Durga (family deity of Kota royals), located about 18 km from Kota in Ummed Ganj area amid forests. It offers a peaceful, spiritual experience.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "historical",
+      "nature"
+    ],
+    "geo": {
+      "lat": 25.07712,
+      "lng": 75.91898
+    },
+    "best_time": "Morning",
+    "duration": 1.0,
+    "image1": "/dadh-dev-mata-temple-kota-rajasthan-1.jpg",
+    "image2": "/dadh-dev-mata-temple-kota-rajasthan-2.webp",
+    "image3": "/dadh-devi-3.jpg",
+    "image4": "/dadh-devi-4.jpg",
+    "highlights": [
+      "Royal family deity shrine",
+      "Surrounded by thick forests",
+      "Ancient architecture",
+      "Quiet contemplation spot"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "karneshwar-temple-kota",
+    "title": "Karneshwar Temple",
+    "content": "Karneshwar Mahadev Temple is an ancient Shiva temple on Jhalawar Road (NH-12), about 25 km from Kota. Surrounded by greenery and natural springs, it's especially beautiful during monsoon.",
+    "tags": [
+      "temple",
+      "shiva-temple",
+      "nature",
+      "spiritual"
+    ],
+    "geo": {
+      "lat": 25.10111,
+      "lng": 75.85421
+    },
+    "best_time": "Monsoon or morning",
+    "duration": 0.8,
+    "image1": "/kardeshwar-mahadev-mandir-kota-1.jpg",
+    "image2": "/kardeshwar-mahadev-mandir-kota-2.jpg",
+    "image3": "/karneshwar-3.jpg",
+    "image4": "/karneshwar-4.jpg",
+    "highlights": [
+      "Ancient Shiva shrine",
+      "Lush greenery and springs",
+      "Scenic monsoon views",
+      "Peaceful rural setting"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "umed-bhawan-palace-kota",
+    "title": "Umed Bhawan Palace",
+    "content": "Umed Bhawan Palace is a grand heritage hotel and former royal residence in Kota, opposite Nehru Garden on Station Road. It showcases classic architecture and serves as a luxurious stay option with historical charm.",
+    "tags": [
+      "heritage",
+      "historical",
+      "palace",
+      "tourist"
+    ],
+    "geo": {
+      "lat": 25.20996,
+      "lng": 75.86724
+    },
+    "best_time": "Anytime (as hotel/visit)",
+    "duration": 1.0,
+    "image1": "/umed-bhawan-palace-kota-rajasthan-1.avif",
+    "image2": "/umed-bhawan-palace-kota-rajasthan-2.avif",
+    "image3": "/umed-bhawan-3.jpg",
+    "image4": "/umed-4.jpg",
+    "highlights": [
+      "Royal heritage architecture",
+      "Luxury accommodation",
+      "Central location",
+      "Historical significance"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "blue-kingdom-water-park-kota",
+    "title": "Blue Kingdom Water Park",
+    "content": "Blue Kingdom is Rajasthan's largest water and adventure park on Ballop Bypass Road near Vedant College. It features thrilling slides, wave pools, lazy rivers, rain dance, and family-friendly attractions open year-round.",
+    "tags": [
+      "water-park",
+      "adventure",
+      "family-friendly",
+      "fun"
+    ],
+    "geo": {
+      "lat": 25.23785,
+      "lng": 75.75601
+    },
+    "best_time": "Weekends or summer",
+    "duration": 4.0,
+    "image1": "/blue-kingdom-water-and-adventure-park-kota-rajasthan-1.jpg",
+    "image2": "/blue-kingdom-water-and-adventure-park-kota-rajasthan-2.webp",
+    "image3": "/blue-kingdom-3.jpg",
+    "image4": "/blue-kingdom-4.jpg",
+    "highlights": [
+      "Biggest water park in Rajasthan",
+      "Thrilling slides and wave pool",
+      "Adventure rides for all ages",
+      "Food outlets and gardens"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "aquagreens-water-park-kota",
+    "title": "Aquagreens Water Park",
+    "content": "Aquagreens Water Park is one of Kota's popular and oldest water parks, located on NH-12 Bundi Road near Kunhadi/Naya Khera. It offers a variety of water slides, pools, and fun attractions, making it a great spot to beat the summer heat with family and friends.",
+    "tags": [
+      "water-park",
+      "family-friendly",
+      "adventure",
+      "fun"
+    ],
+    "geo": {
+      "lat": 25.21056,
+      "lng": 75.82675
+    },
+    "best_time": "Summer afternoons or weekends",
+    "duration": 3.5,
+    "image1": "/aquagreen-water-park-kota-rajasthan-1.webp",
+    "image2": "/aquagreen-water-park-kota-rajasthan-2.jpg",
+    "image3": "/hariyali-3.jpg",
+    "image4": "/hariyali-4.jpg",
+    "highlights": [
+      "Variety of thrilling water slides",
+      "Wave pools and lazy river",
+      "Family picnic areas",
+      "Refreshing escape from heat"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "lakshya-water-park-kota",
+    "title": "Lakshya Water Park & Resort",
+    "content": "Lakshya Water Park and Resort is a popular destination on NH-27 (Kota-Baran Road) near Simliya Toll Plaza. It combines exciting water rides, adventure activities, and resort stay options, ideal for full-day outings or weekend getaways.",
+    "tags": [
+      "water-park",
+      "resort",
+      "family-friendly",
+      "adventure"
+    ],
+    "geo": {
+      "lat": 25.16760,
+      "lng": 76.12308
+    },
+    "best_time": "Weekends or holidays",
+    "duration": 4.0,
+    "image1": "/lakshya-water-park-resort-simlia-kota-rajasthan-2.webp",
+    "image2": "/lakshya-water-park-resort-simlia-kota-rajasthan-1.avif",
+    "image3": "/lakshya-3.jpg",
+    "image4": "/lakshya-4.jpg",
+    "highlights": [
+      "Thrilling slides and wave pool",
+      "Resort accommodations available",
+      "Adventure games and rides",
+      "Food courts and green spaces"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "herbal-park-kota",
+    "title": "Herbal Park",
+    "content": "Herbal Park is a serene green space on Bundi Road in Kota, featuring medicinal plants, landscaped gardens, walking paths, and shaded areas. It's a peaceful spot for nature lovers, morning walks, and relaxation amid herbal greenery.",
+    "tags": [
+      "park",
+      "nature",
+      "herbal-garden",
+      "leisure"
+    ],
+    "geo": {
+      "lat": 25.22247,
+      "lng": 75.81005
+    },
+    "best_time": "Early morning or evening",
+    "duration": 0.8,
+    "image1": "/herbal-park-kota-rajasthan-1.avif",
+    "image2": "/herbal-park-kota-rajasthan-2.avif",
+    "image3": "/herbal-park-3.jpg",
+    "image4": "/herbal-park-4.jpg",
+    "highlights": [
+      "Collection of medicinal plants",
+      "Well-maintained walking paths",
+      "Calm and refreshing environment",
+      "Ideal for yoga and strolls"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "hare-krishna-temple-kota",
+    "title": "Hare Krishna Temple (ISKCON)",
+    "content": "ISKCON Temple in Kota is a vibrant spiritual center dedicated to Lord Krishna, offering daily aartis, kirtans, prasadam, and devotional activities. It's a peaceful place for bhakti, festivals like Janmashtami, and community gatherings.",
+    "tags": [
+      "temple",
+      "spiritual",
+      "iskcon",
+      "devotional"
+    ],
+    "geo": {
+      "lat": 25.11145,
+      "lng": 75.81957
+    },
+    "best_time": "Evening aarti or festivals",
+    "duration": 0.6,
+    "image1": "/iskcon-hare-krishna-mandir-kota-rajasthan-1.webp",
+    "image2": "/iskcon-hare-krishna-mandir-kota-rajasthan-2.jpg",
+    "image3": "/iskcon-3.jpg",
+    "image4": "/iskcon-4.jpg",
+    "highlights": [
+      "Beautiful Krishna deity worship",
+      "Daily kirtans and prasadam",
+      "Festive celebrations",
+      "Serene spiritual ambiance"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "mukundra-hills-tiger-reserve-kota",
+    "title": "Mukundra Hills Tiger Reserve (Darrah)",
+    "content": "Mukundra Hills Tiger Reserve (Darrah Wildlife Sanctuary side) is a biodiversity-rich protected area about 50 km from Kota, featuring tigers, leopards, diverse flora, and scenic hills. It's ideal for wildlife safaris and nature enthusiasts.",
+    "tags": [
+      "wildlife",
+      "tiger-reserve",
+      "nature",
+      "safari"
+    ],
+    "geo": {
+      "lat": 24.79660,
+      "lng": 76.00849
+    },
+    "best_time": "Winter mornings (Oct–Mar)",
+    "duration": 4.0,
+    "image1": "/mukundra-hills-tiger-reserve-1.jpg",
+    "image2": "/mukundra-hills-tiger-reserve-2.jpg",
+    "image3": "/mukundra-3.jpg",
+    "image4": "/mukundra-4.jpg",
+    "highlights": [
+      "Tiger and leopard sightings possible",
+      "Scenic hilly terrain",
+      "Jeep safaris available",
+      "Rich biodiversity and forests"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "bhitria-kund-kota",
+    "title": "Bhitria Kund",
+    "content": "Bhitria Kund (also known as Bhitaria Kund) is a scenic spot on the Chambal River banks near Shivpura/Rawatbhata Road, featuring a beautiful ancient Mahadev temple, gardens, and stunning sunset views over the river.",
+    "tags": [
+      "nature",
+      "temple",
+      "photography-spot",
+      "riverside"
+    ],
+    "geo": {
+      "lat": 25.15595,
+      "lng": 75.81911
+    },
+    "best_time": "Evening for sunset",
+    "duration": 0.7,
+    "image1": "/bhitria-kund-shivpura-kota-rajasthan-1.jpg",
+    "image2": "/bhitria-kund-shivpura-kota-rajasthan-2.jpg",
+    "image3": "/bhitria-kund-3.jpg",
+    "image4": "/bhitria-kund-4.jpg",
+    "highlights": [
+      "Ancient four-faced Shiv Linga",
+      "Chambal River sunset views",
+      "Temple garden setting",
+      "Peaceful riverside spot"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "menal-resort-kota",
+    "title": "Menal Resort",
+    "content": "Menal Resort is a scenic stay option near the ancient Menal Waterfall and Shiv Temple (about 90 km from Kota), surrounded by lush forests and natural beauty. It offers comfortable rooms, delicious food, and stunning views of the waterfall and greenery, making it ideal for a relaxing getaway or nature lovers.",
+    "tags": [
+      "resort",
+      "nature",
+      "waterfall-view",
+      "family-friendly",
+      "relaxation"
+    ],
+    "geo": {
+      "lat": 25.09666,
+      "lng": 75.17083
+    },
+    "best_time": "Monsoon (for waterfall) or winter",
+    "duration": 4.0,
+    "image1": "/menal-resort-kota-rajasthan-1.jpeg",
+    "image2": "/menal-resort-kota-rajasthan-2.jpg",
+    "image3": "/menal-resort-3.jpg",
+    "image4": "/menal-resort-4.jpg",
+    "highlights": [
+      "Proximity to Menal Waterfall and ancient Shiv Temple",
+      "Forest-surrounded peaceful location",
+      "Comfortable stay with good food",
+      "Scenic views and nature trails"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "alnia-dam-kota",
+    "title": "Alnia Dam",
+    "content": "Alnia Dam is a picturesque dam near Kota, known as a bird-watching paradise with beautiful landscapes and ancient rock paintings dating back to the Upper Paleolithic age on the river banks. It maintains ecological balance and offers serene views, especially during sunset.",
+    "tags": [
+      "nature",
+      "bird-watching",
+      "historical",
+      "photography-spot",
+      "dam"
+    ],
+    "geo": {
+      "lat": 25.00315,
+      "lng": 75.87939
+    },
+    "best_time": "Winter mornings or evenings for bird watching and sunset",
+    "duration": 1.0,
+    "image1": "/alniya-dam-alniya-kota-rajasthan-2.jpg",
+    "image2": "/alniya-dam-alniya-kota-rajasthan-1.jpg",
+    "image3": "/alnia-dam-3.jpg",
+    "image4": "/alnia-dam-4.jpg",
+    "highlights": [
+      "Ancient rock paintings on river banks",
+      "Excellent bird-watching spot",
+      "Beautiful natural landscape",
+      "Ecological balance and peaceful views"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "gapernath-waterfall-kota",
+    "title": "Gapernath Waterfall",
+    "content": "Gapernath Waterfall (also called Gaipernath or Geparnath) is a stunning natural waterfall about 23-24 km from Kota on Rawatbhata Road, featuring a 120-foot drop into a pond, surrounded by rocky gorges. Adjacent to Geparnath Mahadev Temple, it's a hidden gem for nature lovers, especially in monsoon.",
+    "tags": [
+      "waterfall",
+      "nature",
+      "temple",
+      "photography-spot",
+      "adventure"
+    ],
+    "geo": {
+      "lat": 25.05956,
+      "lng": 75.72113
+    },
+    "best_time": "Monsoon (July–Sept) for full flow, or winter",
+    "duration": 1.5,
+    "image1": "/geparnath-temple-jammu-temples-1.jpg",
+    "image2": "/geparnath-temple-jammu-temples-2.jpg",
+    "image3": "/gapernath-3.jpg",
+    "image4": "/gapernath-4.jpg",
+    "highlights": [
+      "120-foot high waterfall into a pond",
+      "Adjacent ancient Mahadev temple",
+      "Rocky gorge and natural beauty",
+      "Popular monsoon picnic spot"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "jawahar-sagar-dam-kota",
+    "title": "Jawahar Sagar Dam",
+    "content": "Jawahar Sagar Dam is the third dam in the Chambal Valley Project series, located about 29 km upstream of Kota on the Chambal River. It generates hydroelectric power and offers scenic views of the river gorge, hills, and surrounding wildlife sanctuary area, ideal for nature and photography enthusiasts.",
+    "tags": [
+      "dam",
+      "nature",
+      "photography-spot",
+      "hydroelectric",
+      "scenic"
+    ],
+    "geo": {
+      "lat": 25.03758,
+      "lng": 75.67791
+    },
+    "best_time": "Monsoon or winter mornings",
+    "duration": 1.2,
+    "image1": "/jawahar-sagar-dam-kota-rajasthan-1.png",
+    "image2": "/jawahar-sagar-dam-kota-rajasthan-2.png",
+    "image3": "/jawahar-sagar-3.jpg",
+    "image4": "/jawahar-sagar-4.jpg",
+    "highlights": [
+      "Impressive Chambal River gorge views",
+      "Hydroelectric power generation",
+      "Nearby Mukundra Hills wildlife area",
+      "Serene and photogenic spot"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "abheda-biological-park-kota",
+    "title": "Abheda Biological Park",
+    "content": "Abheda Biological Park (also known as Zoological Park Kota) is a recently developed zoological and biological park in Kota, Rajasthan. Inaugurated on December 18, 2021 by then Chief Minister Ashok Gehlot and Minister Shanti Dhariwal, it spans a large area near the historic Abheda Mahal. The park currently houses around 75 animals including leopards, panthers, jackals, wolves, hyenas, sambhars, deer, and more, with approvals in place to introduce lions, tigers, bears, and birds soon. Visitors can explore comfortably via eco-friendly electric carts. Facilities include restrooms, drinking water, seating areas, and educational boards. It's still in early development stages with expansions ongoing, making it a growing spot for families, wildlife enthusiasts, and nature lovers in Kota.",
+    "tags": [
+      "zoo",
+      "biological-park",
+      "wildlife",
+      "nature",
+      "family",
+      "conservation"
+    ],
+    "geo": {
+      "lat": 25.19669,
+      "lng": 75.79142
+    },
+    "best_time": "October to March (winter months for pleasant weather; avoid peak summer heat)",
+    "duration": 1.5,
+    "image1": "/abheda-biological-park-kota-rajasthan-2.png",
+    "image2": "/abheda-biological-park-kota-rajasthan-1.jpg",
+    "image3": "/abheda-biological-park-3.jpg",
+    "image4": "/abheda-biological-park-4.jpg",
+    "highlights": [
+      "Eco-friendly electric cart rides for easy exploration",
+      "Diverse wildlife collection (leopards, jackals, sambhars, and expanding)",
+      "Proximity to historic Abheda Mahal (just 100-650 meters away)",
+      "Serene natural setting with rest areas and facilities",
+      "Focus on conservation and education in Rajasthan"
+    ]
+  },
+  {
+  "id": 35,
+  "slug": "garh-palace-kota",
+  "title": "Garh Palace",
+  "content": "Garh Palace, also known as Kota City Palace, is one of the most magnificent royal residences in Rajasthan. Built in the 17th century, this sprawling palace complex showcases classic Rajput-Mughal architecture with grand courtyards, ornate jharokhas, beautiful frescoes, mirror work, and intricate stone carvings. The palace houses the famous Rao Madho Singh Museum, which displays a remarkable collection of miniature paintings, royal weaponry, costumes, manuscripts, and artifacts from the Kota royal family. The palace offers stunning views of the Chambal River and the city, making it a major historical and architectural landmark in Kota.",
+  "tags": [
+    "historical",
+    "heritage",
+    "palace",
+    "museum",
+    "architecture",
+    "tourist",
+    "photography-spot"
+  ],
+  "geo": {
+    "lat": 25.1755,
+    "lng": 75.8301
+  },
+  "best_time": "Morning (9 AM – 12 PM) or late afternoon (3 PM – 5 PM) for pleasant weather and good light",
+  "duration": 1.5,
+  "image1": "/garh-city-palace-kota-rajasthan-2.jpg",
+  "image2": "/garh-city-palace-kota-rajasthan-1.jpg",
+  "image3": "/garh-palace-kota-museum-3.jpg",
+  "image4": "/garh-palace-kota-view-4.jpg",
+  "highlights": [
+    "Classic Rajput-Mughal architecture",
+    "Rao Madho Singh Museum with rare miniature paintings",
+    "Beautiful courtyards, jharokhas and frescoes",
+    "Royal artifacts, weapons and costumes collection",
+    "Panoramic views of Chambal River"
+  ]
+},
+{
+  "id": 36, 
+    "slug": "kishore-sagar-talab",
+  "title": "Kishore Sagar Talab",
+  "content": "Kishore Sagar Talab, also known as Kishore Sagar Lake, is a beautiful artificial lake in the heart of Kota, constructed in the 14th century and later refurbished in the 18th century by Maha Rao Kishore Singh. This serene water body features the iconic Jagmandir Palace on a small island in the center, surrounded by palm trees and lush greenery. It serves as a peaceful oasis amidst the city, offering boating rides to the palace, stunning reflections, and proximity to attractions like Seven Wonders Park. A perfect spot for relaxation, family outings, and capturing scenic photographs.",
+  "tags": [
+    "lake",
+    "historical",
+    "boating",
+    "family-friendly",
+    "photography-spot",
+    "tourist",
+    "relaxation"
+  ],
+  "geo": {
+    "lat": 25.18585,
+    "lng": 75.85126
+  },
+  "best_time": "Morning or evening",
+  "duration": 0.8,
+  "image1": "/kishor-sagar-talab-kota-rajasthan-3.jpg",
+  "image2": "/kishor-sagar-talab-kota-rajasthan-7.jpg",
+  "image3": "/kishore-sagar-jagmandir-view.jpg",
+  "image4": "/kishore-sagar-talab-sunset.jpg",
+  "highlights": [
+    "14th-century artificial lake with island palace",
+    "Boating to Jagmandir Palace",
+    "Serene city oasis with palm-lined shores",
+    "Adjacent to Seven Wonders Park",
+    "Beautiful evening reflections and lighting"
+  ]
+}
+]
